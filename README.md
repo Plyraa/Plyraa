@@ -26,4 +26,3 @@ You can click the Preview link to take a look at your changes.
 
 
 [twitter]: https://twitter.com/plyraa
-[linkedin]: https://linkedin.com/in/codeSTACKr
