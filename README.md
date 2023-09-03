@@ -1,14 +1,12 @@
-<h1>Hello👋 I'm Ilhan, aka Plyra  </h1>
+<h1>Hello👋 I'm Plyra  </h1>
 
-I'm a CS student taking path in tech :3
+I'm a CS student taking path in tech
 
 - 🟦 Need help with Windows BSODs? Let me analyze your Dump files at [@plyraa][twitter] 
-- 🐍 Currently focused on learning Python and improving my Java skills
 - 🎛️ Able to code in Verilog and program FPGAs ⌨️ 
-- 🔥 CPU and RAM overclock enjoyer, need to set every timing as tight as possible!
+- 🔥 CPU and RAM overclock enjoyer
 
 ## Skills
-I generally use these major technologies or experienced with them:
 
 **Languages**
 
